@@ -20,8 +20,10 @@ h1 {
 }
 
 nav { 
-       margin: 10px;
-	     width: 900px;
-	     font-family: serif;
+     margin: 10px;
+     width: 900px;
+     display:block; 
+     font-family: serif;
+     padding:4px;
 } 
 
