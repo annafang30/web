@@ -1,22 +1,12 @@
 body { 
   background-color: black;
-} 
-
-body { 
+  border: dashed red;
   color: white;
   text-align: center;
-} 
-
-body { 
+  padding: 10px; 
   font-family: serif;
   font-size: 18px;
-  padding: 10px;
 } 
-
-body { 
-  border: dashed red;
-} 
-
 
 h1 {
     text-align: center;
