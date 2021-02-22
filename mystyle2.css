@@ -4,10 +4,13 @@ body {
 
 body { 
   color: white;
+  text-align: center;
 } 
 
 body { 
   font-family: serif;
+  font-size: 18px;
+  padding: 10px;
 } 
 
 body { 
@@ -17,7 +20,30 @@ body {
 
 h1 {
     text-align: center;
+	color: yellow;
+	border: solid blue;
+	margin: auto;
+	width: 30%;
+	padding: 10px;
 }
 
-    
+nav { 
+	font-size: 20px;
+	margin: 20px;
+    width: 3000px;
+    font-family: sans-serif;
+} 
 
+nav li { 
+	display:block;
+	width:380px;
+	border:1px solid white;
+	float: left;
+	text-align: center;
+}
+
+a { 
+	color: white;
+	display:block;
+	padding:3px;
+}
