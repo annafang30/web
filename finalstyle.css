@@ -8,10 +8,10 @@ body {
 } 
 
 h1 {
-    text-align: center;
+    	text-align: center;
 	color: #6B705C;
 	border: solid #CB997E;
-	width: 35%;
+	width: 25%;
 	padding: 15px;
 	margin: auto;
 }
