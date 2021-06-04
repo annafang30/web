@@ -9,7 +9,7 @@ body {
 
 h1 {
     text-align: center;
-	color: #CB997E;
+	color: #6B705C;
 	border: solid #CB997E;
 	width: 40%;
 	padding: 15px;
@@ -24,7 +24,7 @@ p {
 
 nav { 
 	font-size: 25px;
-	margin: 10px;
+	margin: 15px;
 	list-style: none; 
 	display: inline-flex;
 	margin: auto;
