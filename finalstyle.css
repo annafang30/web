@@ -16,12 +16,6 @@ h1 {
 	margin: auto;
 }
 
-p { 
-	margin-top: 50px;
-	margin-right: 100px;
-    text-align: justify;	
-}
-
 nav { 
 	font-size: 25px;
 	color: #B7B7A4;
@@ -55,12 +49,4 @@ nav a:active {
 a { 
 	color: #191970;
 	font-family: serif;
-}
-
-img { 
-	float: left;
-	margin-right: 100px;
-    margin-left: 100px;
-	border: dashed red;
-	padding: 20px;
 }
