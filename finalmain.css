@@ -3,3 +3,10 @@ p {
 	margin-right: 100px;
     text-align: justify;	
 }
+
+img { 
+	float: left;
+	margin-right: 100px;
+   	margin-left: 100px;
+	padding: 20px;
+}
