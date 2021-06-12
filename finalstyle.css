@@ -38,5 +38,5 @@ div.shiftleft {
    	margin-left: 50px;
 	padding: 20px;
 	height: auto;
-	width: 10%
+	max-width: 10%
 }
