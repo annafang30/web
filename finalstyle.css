@@ -19,7 +19,7 @@ h1 {
 }
 
 h2 { 
-	color: #6D4C3D;
+	color: black;
 }
 
 h4 { 
@@ -34,9 +34,9 @@ a {
 
 div.shiftleft {
 	float: left;
-	margin-right: 100px;
-   	margin-left: 100px;
+	margin-right: 50px;
+   	margin-left: 50px;
 	padding: 20px;
 	height: auto;
-	width: 30%
+	width: 10%
 }
