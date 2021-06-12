@@ -11,7 +11,7 @@ h1 {
     	text-align: center;
 	color: #6D4C3D;
 	border: solid #727D71;
-	width: 35%;
+	width: 50%;
 	padding: 15px;
 	margin: auto;
 }
@@ -37,6 +37,10 @@ nav li {
 	font-size: 25px;
 	margin: auto;
 }
+
+li { 
+	text-align: left; 
+} 
 
 nav a:hover { 
     background-color: #DDBEA9;
