@@ -18,6 +18,10 @@ h1 {
 	margin: auto;
 }
 
+h4 { 
+	text-align: center;
+}
+
 nav { 
 	font-size: 25px;
 	color: #B7B7A4;
@@ -40,6 +44,7 @@ nav li {
 .center { 
 	margin-right: 300px;	
 	margin-left: 300px;	
+}
 
 li { 
 	text-align: left; 
