@@ -2,6 +2,8 @@ body {
   background-color: #DCC9B6;
   color: black;
   padding: 10px; 
+  margin-left: 100px; 
+  margin-right: 100px;
   font-family: serif;
   font-size: 20px;
   text-align: left;
