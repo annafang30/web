@@ -23,6 +23,7 @@ nav {
 	color: #B7B7A4;
 	list-style: none; 
 	display: inline-flex;
+	margin-left: 200px; 
 	margin: auto;
 } 
 
