@@ -26,19 +26,20 @@ nav {
 	margin: auto;
 } 
 
-.center { 
+nav li { 
 	display:block;
 	display: inline-flex;
 	flex: 1;
 	border:1px solid black;
 	float: left;
-	padding: 10px;
-	margin-right: 10px;	
-	margin-left: 10px;	
+	padding: 10px;	
 	font-family: serif;	
 	font-size: 25px;
-	margin: auto;
 }
+
+.center { 
+	margin-right: 300px;	
+	margin-left: 300px;	
 
 li { 
 	text-align: left; 
