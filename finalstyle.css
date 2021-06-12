@@ -34,8 +34,7 @@ a {
 
 .shiftleft { 
 	float: left;
-	margin-right: 100px;
-   	margin-left: 50px;
+   	margin-left: 100px;
 	padding: 20px;
 	height: auto;
 	width: 20%
@@ -43,8 +42,7 @@ a {
 
 .shiftright { 
 	float: right;
-	margin-right: 50px;
-   	margin-left: 100px;
+	margin-right: 100px;
 	padding: 20px;
 	height: auto;
 	width: 20%
