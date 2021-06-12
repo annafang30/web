@@ -32,7 +32,7 @@ a {
 	font-size: 25px;
 }
 
-img.shiftleft {
+div.shiftleft {
 	float: left;
 	margin-right: 100px;
    	margin-left: 100px;
