@@ -41,6 +41,8 @@ nav li {
 	border:1px solid black;
 	float: left;
 	padding: 10px;	
+	margin-right: 10px;	
+	margin-left: 10px;
 	font-family: serif;	
 	font-size: 25px;
 }
