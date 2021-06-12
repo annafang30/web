@@ -32,11 +32,10 @@ a {
 	font-size: 25px;
 }
 
-div.shiftleft {
-	float: left;
-	margin-right: 50px;
-   	margin-left: 50px;
-	padding: 20px;
+img { 
 	height: auto;
-	max-width: 100px;
-}
+	width: 200px; 
+	margin-right: 50px; 
+	margin-left: 50px; 
+} 
+
