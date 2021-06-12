@@ -31,3 +31,12 @@ a {
 	font-family: serif;
 	font-size: 25px;
 }
+
+img { 
+	float: left;
+	margin-right: 100px;
+   	margin-left: 100px;
+	padding: 20px;
+	height: auto;
+	width: 40%
+}
