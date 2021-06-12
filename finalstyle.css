@@ -45,18 +45,8 @@ nav li {
 	margin-left: 10px;
 	font-family: serif;	
 	font-size: 25px;
+	margin: auto;
 }
-
-.center { 
-	margin-right: 500px;	
-	margin-left: 300px;
-	display: inline-flex; 
-	flex: 1;
-}
-
-li { 
-	text-align: left; 
-} 
 
 nav a:hover { 
     background-color: #DDBEA9;
