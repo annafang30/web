@@ -23,11 +23,10 @@ nav {
 	color: #B7B7A4;
 	list-style: none; 
 	display: inline-flex;
-	margin-left: 200px; 
 	margin: auto;
 } 
 
-nav li { 
+.center { 
 	display:block;
 	display: inline-flex;
 	flex: 1;
